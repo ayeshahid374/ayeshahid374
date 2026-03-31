@@ -3,7 +3,7 @@
 Hi, I'm Ayesha 👋  
 CS Student @ FAST-NUCES Lahore · Full-Stack & Game Developer  
 
-CS student at FAST-NUCES Lahore building full-stack web apps, games, and practical software projects.  
+I’m a 3rd-year Computer Science student passionate about building practical applications that solve real problems. I enjoy exploring web development, databases, and game design, while improving my coding and problem-solving skills.  
 
 ---
 
