@@ -67,5 +67,5 @@ I’m a 3rd-year Computer Science student passionate about building practical ap
 ---
 
 ## 📫 Let's Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-shahid-034839365)  
-📧 [Gmail](mailto:your.email@example.com)
+🔗 LinkedIn: https://www.linkedin.com/in/ayesha-shahid-034839365  
+📧 Gmail: ayeshahid374@gmail.com
